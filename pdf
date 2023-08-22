@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>PDF in HTML</title>
+</head>
+<body>
+		<object data=
+"BIO 12th.html"
+				width="800"
+				height="500">
+		</object>
+	</center>
+</body>
+</html>
